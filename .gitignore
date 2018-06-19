@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+/Assets/Oculus
+/Assets/Plugins
+ProjectSettings
+*.meta
